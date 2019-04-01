@@ -26,6 +26,8 @@
     text-align: center;
     background-image: url(images/cocktail.gif);
     background-repeat: repeat-x;
+    width: 200px;
+    float: right;
 }
 #elixirs h2{
     color:black;
